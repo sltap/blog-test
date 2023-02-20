@@ -16,5 +16,4 @@
 
 学过的编程语言有 `Python`。我写一段给你瞧瞧吧
 
-```python
-print("hello world")
+    print("hello world")
